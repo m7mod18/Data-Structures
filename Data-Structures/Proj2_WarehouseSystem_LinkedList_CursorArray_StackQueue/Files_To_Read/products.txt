@@ -1,0 +1,13 @@
+ProductID,Name,Category,Status
+P001,Laptop,Electronics,Active
+P002,Monitor,Electronics,Active
+P003,Desk,Furniture,Active
+P004,Chair,Furniture,Inactive
+P005,Printer,Office Supplies,Active
+P006,Scanner,Office Supplies,Inactive
+P007,Tablet,Electronics,Active
+P008,Projector,Electronics,Inactive
+P009,Cabinet,Furniture,Active
+P010,Whiteboard,Office Supplies,Active
+P011,Mouse,Electronics,Active
+P012,Keyboard,Electronics,Active
