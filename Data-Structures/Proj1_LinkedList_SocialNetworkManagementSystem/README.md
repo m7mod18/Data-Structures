@@ -20,7 +20,7 @@ Developed for the COMP242 – Data Structures course at Birzeit University.
 ---
 
 # Screenshot
-![UI](./assets/main-ui.png)
+![UI](./assets/Main_page.png)
 
 ---
 
